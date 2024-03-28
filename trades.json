@@ -1,0 +1,265 @@
+{
+    "products": [
+        {
+            "productCode": "WSD1084623",
+            "couponRate": 5,
+            "couponFrequency": "annual",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 80
+        },
+        {
+            "productCode": "WSD19837233",
+            "couponRate": 6,
+            "autocall": "no",
+            "issuerCall": "no",
+            "couponFrequency": "monthly",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 75
+        },
+        {
+            "productCode": "WSD86345633",
+            "couponRate": 4.5,
+            "autocall": "no",
+            "issuerCall": "no",
+            "couponFrequency": "quarterly",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD56734563",
+            "issuerCall": "yes",
+            "couponRate": 5.4,
+            "couponFrequency": "quarterly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 90
+        },
+        {
+            "productCode": "WSD348570345",
+            "autocall": "yes",
+            "couponRate": 6,
+            "couponFrequency": "annual",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 80
+        },
+        {
+            "productCode": "WSD1084623",
+            "autocall": "yes",
+            "couponRate": 7.9,
+            "couponFrequency": "annual",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 70
+        },
+        {
+            "productCode": "WSD827304938",
+            "couponRate": 7,
+            "couponFrequency": "annual",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD854796w46",
+            "autocall": "yes",
+            "couponRate": 6.3,
+            "couponFrequency": "bi-annual",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 95
+        },
+        {
+            "productCode": "WSD6578379749",
+            "digitalCoupon": 3,
+            "upsideStyle": "digital",
+            "downsideStyle": "kiPut",
+            "putStrike": 100,
+            "kiBarrier": 80
+        },
+        {
+            "productCode": "WSD490672111",
+            "issuerCall": "yes",
+            "couponRate": 4.6,
+            "couponFrequency": "quarterly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 86
+        },
+        {
+            "productCode": "WSD3028398967",
+            "autocall": "yes",
+            "couponRate": 3.5,
+            "couponFrequency": "monthly",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD9098743",
+            "couponRate": 3.2,
+            "couponFrequency": "quarterly",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD128347596",
+            "issuerCall": "yes",
+            "couponRate": 9,
+            "couponFrequency": "annual",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD567293412",
+            "issuerCall": "yes",
+            "couponRate": 1.4,
+            "couponFrequency": "weekly",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 97
+        },
+        {
+            "productCode": "WSD412378120",
+            "issuerCall": "yes",
+            "couponRate": 5.3,
+            "couponFrequency": "quarterly",
+            "couponType": "conditional",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD1287659347",
+            "autocall": "no",
+            "issuerCall": "no",
+            "couponRate": 5.2,
+            "couponFrequency": "quarterly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD8723456",
+            "autocall": "no",
+            "issuerCall": "no",
+            "couponRate": 4.5,
+            "couponFrequency": "quarterly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD1253417222",
+            "digitalCoupon": 4.2,
+            "upsideStyle": "digital",
+            "downsideStyle": "kiPut",
+            "putStrike": 100,
+            "kiBarrier": 75
+        },
+        {
+            "productCode": "WSD234314521",
+            "couponRate": 2.2,
+            "couponFrequency": "monthly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 96
+        },
+        {
+            "productCode": "WSD123492375",
+            "couponRate": 1.1,
+            "couponFrequency": "weekly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 96
+        },
+        {
+            "productCode": "WSD11238502",
+            "autocall": "yes",
+            "couponRate": 2.3,
+            "couponFrequency": "monthly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 85
+        },
+        {
+            "productCode": "WSD52834913",
+            "autocall": "yes",
+            "couponRate": 3.8,
+            "couponFrequency": "quarterly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD098345",
+            "autocall": "yes",
+            "couponRate": 3.8,
+            "couponFrequency": "quarterly",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 100
+        },
+        {
+            "productCode": "WSD29834752",
+            "autocall": "yes",
+            "couponRate": 8.6,
+            "couponFrequency": "annual",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 95
+        },
+        {
+            "productCode": "WSD182405723",
+            "autocall": "yes",
+            "couponRate": 8.6,
+            "couponFrequency": "annual",
+            "couponType": "guaranteed",
+            "upsideStyle": "par",
+            "downsideStyle": "vanillaPut",
+            "putStrike": 95
+        },
+        {
+            "productCode": "WSD12098643",
+            "digitalCoupon": 3,
+            "upsideStyle": "digital",
+            "downsideStyle": "kiPut",
+            "putStrike": 100,
+            "kiBarrier": 80
+        },
+        {
+            "productCode": "WSD873264573894",
+            "digitalCoupon": 4,
+            "upsideStyle": "digital",
+            "downsideStyle": "kiPut",
+            "putStrike": 100,
+            "kiBarrier": 70
+        }
+    ]
+}
