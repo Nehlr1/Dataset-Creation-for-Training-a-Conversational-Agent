@@ -1,0 +1,353 @@
+[
+  {
+    "id": "identity_0",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD1084623, couponRate is 5, couponFrequency is annual, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 80"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_1",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD19837233, couponRate is 6, autocall is no, issuerCall is no, couponFrequency is monthly, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 75"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD86345633, couponRate is 4.5, autocall is no, issuerCall is no, couponFrequency is quarterly, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD56734563, issuerCall is yes, couponRate is 5.4, couponFrequency is quarterly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 90"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD348570345, autocall is yes, couponRate is 6, couponFrequency is annual, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 80"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_5",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD1084623, autocall is yes, couponRate is 7.9, couponFrequency is annual, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 70"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_6",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD827304938, couponRate is 7, couponFrequency is annual, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "No category found for product with ID WSD827304938"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD854796w46, autocall is yes, couponRate is 6.3, couponFrequency is bi-annual, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 95"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_8",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD6578379749, digitalCoupon is 3, upsideStyle is digital, downsideStyle is kiPut, putStrike is 100, kiBarrier is 80"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is digital"
+      }
+    ]
+  },
+  {
+    "id": "identity_9",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD490672111, issuerCall is yes, couponRate is 4.6, couponFrequency is quarterly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 86"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_10",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD3028398967, autocall is yes, couponRate is 3.5, couponFrequency is monthly, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_11",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD9098743, couponRate is 3.2, couponFrequency is quarterly, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "No category found for product with ID WSD9098743"
+      }
+    ]
+  },
+  {
+    "id": "identity_12",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD128347596, issuerCall is yes, couponRate is 9, couponFrequency is annual, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_13",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD567293412, issuerCall is yes, couponRate is 1.4, couponFrequency is weekly, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 97"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD412378120, issuerCall is yes, couponRate is 5.3, couponFrequency is quarterly, couponType is conditional, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is phoenix"
+      }
+    ]
+  },
+  {
+    "id": "identity_15",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD1287659347, autocall is no, issuerCall is no, couponRate is 5.2, couponFrequency is quarterly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_16",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD8723456, autocall is no, issuerCall is no, couponRate is 4.5, couponFrequency is quarterly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "No category found for product with ID WSD8723456"
+      }
+    ]
+  },
+  {
+    "id": "identity_17",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD1253417222, digitalCoupon is 4.2, upsideStyle is digital, downsideStyle is kiPut, putStrike is 100, kiBarrier is 75"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is digital"
+      }
+    ]
+  },
+  {
+    "id": "identity_18",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD234314521, couponRate is 2.2, couponFrequency is monthly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 96"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_19",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD123492375, couponRate is 1.1, couponFrequency is weekly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 96"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_20",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD11238502, autocall is yes, couponRate is 2.3, couponFrequency is monthly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 85"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD52834913, autocall is yes, couponRate is 3.8, couponFrequency is quarterly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_22",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD098345, autocall is yes, couponRate is 3.8, couponFrequency is quarterly, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 100"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_23",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD29834752, autocall is yes, couponRate is 8.6, couponFrequency is annual, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 95"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_24",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD182405723, autocall is yes, couponRate is 8.6, couponFrequency is annual, couponType is guaranteed, upsideStyle is par, downsideStyle is vanillaPut, putStrike is 95"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is revcon"
+      }
+    ]
+  },
+  {
+    "id": "identity_25",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD12098643, digitalCoupon is 3, upsideStyle is digital, downsideStyle is kiPut, putStrike is 100, kiBarrier is 80"
+      },
+      {
+        "from": "gpt",
+        "value": "The product category is digital"
+      }
+    ]
+  },
+  {
+    "id": "identity_26",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The productCode is WSD873264573894, digitalCoupon is 4, upsideStyle is digital, downsideStyle is kiPut, putStrike is 100, kiBarrier is 70"
+      },
+      {
+        "from": "gpt",
+        "value": "No category found for product with ID WSD873264573894"
+      }
+    ]
+  }
+]
